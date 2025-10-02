@@ -1,6 +1,16 @@
 # Photography Sidebar Mini Project
 
+## Overview
+
 This project is a stylish sidebar navigation menu for a photography-themed website, built using HTML and CSS. The sidebar features smooth transitions, Font Awesome icons, and social media links, making it ideal for portfolios, galleries, or creative showcases.
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live project](https://manishasolanki2071.github.io/Photography_Sidebar_Mini_Project/)
+
+---
 
 ## Features
 
@@ -8,7 +18,9 @@ This project is a stylish sidebar navigation menu for a photography-themed websi
 - Font Awesome icons for menu items and social media
 - Custom logo and branding
 - Hover effects and smooth transitions
-- Easy toggle open/close functionality
+- Easy toggle open/close
+
+---
 
 ## Usage
 
@@ -16,16 +28,22 @@ This project is a stylish sidebar navigation menu for a photography-themed websi
 2. Place your background image as `photo.jpg` in the project directory.
 3. Open `index.html` in your browser to view the sidebar.
 
+---
+
 ## Customization
 
 - Update the logo text in the `.logo` section.
 - Change menu items and links in the `.menu` section.
 - Replace social media links as needed.
 
+---
+
 ## Dependencies
 
 - [Google Fonts: Poppins](https://fonts.google.com/specimen/Poppins)
 - [Font Awesome 7.0.1](https://cdnjs.com/libraries/font-awesome)
+
+---
 
 ## License
 
